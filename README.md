@@ -11,3 +11,5 @@ Explored which characteristics of each occupational group (students, health prof
 BZDs are the most commonly prescribed medication in the U.S., and, unfortunately, are frequently abused and taken with other drugs.
 
 We created three multinomial logistic regression models to predict use/misuse of BZDs for each occupation.
+
+[View the project here!] (https://tfeng456.github.io/df-visuals-w-names.html)
