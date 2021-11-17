@@ -14,4 +14,4 @@ BZDs are the most commonly prescribed medication in the U.S., and, unfortunately
 
 We created three multinomial logistic regression models to predict use/misuse of BZDs for each occupation.
 
-[View the project here!](https://tfeng456.github.io/df-visuals-w-names.html)
+[View the project here!](https://tfeng456.github.io/bzd.html)
